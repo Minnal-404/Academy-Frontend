@@ -1,0 +1,41 @@
+
+*{
+    box-sizing: border-box;
+}
+.main{
+    min-height: 100vh;
+}
+
+.login{
+    width: 40vw;
+    height: 50vh;
+}
+input, textarea{
+    width: 100%;
+}
+textarea{
+    height: 250px;
+}
+
+.width-100{
+    width: 100%;
+
+}
+.sign_up_nav:hover{
+    color: white;
+    background-color: #198754;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.sign_up{
+    width: 50vw;
+    height: 70vh;
+}
+
+.overflow-y-scroll{
+    height: 80vh;
+}
+.sidebar{
+    bottom: 60;
+    top: 20;
+}
